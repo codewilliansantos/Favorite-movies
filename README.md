@@ -14,6 +14,8 @@ Projeto construído no evento Nextel Level Week da Rocketseat.
 - CSS
 - Git e Github
 
+https://codewilliansantos.github.io/Favorite-movies/
+
 ## 🤝🏻 Contato
 E-mail: codewilliansantos@gmail.com
 ##
